@@ -1,2 +1,1 @@
-
-![finished app](images/finished_app.png)
+![finished app](image.png)
