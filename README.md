@@ -1,1 +1,1 @@
-![finished app](/Users/mohammed.latif/Desktop/ToDoListApp/image.png)
+![finished app](/Users/mohammed.latif/Desktop/ToDoListApp/images/image.png)
